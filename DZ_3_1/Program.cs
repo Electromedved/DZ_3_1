@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DZ_3_1
 {
+
+    //15. Распечатать в «столбик» таблицу умножения на 7.
+
     class Program
     {
         static void Main(string[] args)
